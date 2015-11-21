@@ -32,3 +32,19 @@ src/.deps
 src/test_*
 macosx/build/
 
+.vs
+[Rr]elease*
+[Dd]ebug*
+
+*.sdf
+*.opensdf
+*.suo
+*.user
+
+*.obj
+*.lib
+*.pdb
+*.tlog
+*.log
+*.exp
+*.ich
